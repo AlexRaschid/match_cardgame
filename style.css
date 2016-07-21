@@ -1,0 +1,18 @@
+#game-board{
+    list-style: none;
+    padding: 0;
+    width: 500px;
+}
+
+.tile{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: inline-block;
+    margin: 5px;
+}
+
+.selected{
+    background-color: green;
+    color: white;
+}
