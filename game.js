@@ -3,7 +3,7 @@ $(document).ready(function(){
     var tiles = [];
         for (var i = 0; i < num_tiles / 2; i++){
             var $tile = $("<li></li>");
-            var $tile2 = $("<li></li>");
+            var $tile2 = $("<li><</li>");
             $tile.html(i);
             $tile2.html(i);
             $tile.addClass("tile");
