@@ -10,9 +10,11 @@
     background-color: blue;
     display: inline-block;
     margin: 5px;
+    color: blue;
 }
 
 .selected{
     background-color: green;
-    color: white;
+    color: white
 }
+
